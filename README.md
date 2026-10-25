@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NutriLens
 
 Barkodu tara → ürün bilgisi + diyet analizi. Ürün sistemde yoksa etiketteki **içindekiler** kısmını kameradan oku → vegan mı, glütensiz mi, sütsüz mü analiz et.
@@ -22,3 +23,7 @@ Kamera ve barkod **gerçek cihazda** test edilmelidir. Expo Go'da `expo-glass-ef
 ## Notlar
 - Veriler Open Food Facts topluluğundan gelir; eksik/hatalı olabilir.
 - Analiz yalnızca içindekiler listesine dayanır; alerji için ambalaj doğrulanmalıdır.
+=======
+# nutrilens
+>>>>>>> 9a918c69cb6c2be742c80fbac827329ef15a425a
+# Nutrilenss

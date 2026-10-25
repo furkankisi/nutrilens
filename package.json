@@ -1,6 +1,7 @@
 {
   "name": "nutrilens",
   "version": "1.0.0",
+<<<<<<< HEAD
   "main": "expo-router/entry",
   "dependencies": {
     "@expo/vector-icons": "^15.0.2",
@@ -27,6 +28,14 @@
     "react-native-safe-area-context": "~5.10.1",
     "react-native-screens": "~4.30.0",
     "react-native-worklets": "0.13.0"
+=======
+  "main": "index.ts",
+  "dependencies": {
+    "expo": "~58.0.19",
+    "expo-status-bar": "~58.0.4",
+    "react": "19.3.0",
+    "react-native": "0.88.0"
+>>>>>>> 9a918c69cb6c2be742c80fbac827329ef15a425a
   },
   "devDependencies": {
     "@types/react": "~19.3.0",
